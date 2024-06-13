@@ -6,6 +6,7 @@ import boot from "../../Assets/Projects/bootstarp.png";
 import node from "../../Assets/Projects/node.png";
 import float from "../../Assets/Projects/float.png";
 import flex from "../../Assets/Projects/flex.png";
+import blog from "../../Assets/Projects/blog.png";
 
 function Projects() {
   return (
@@ -19,18 +20,19 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-          
-
-          {/* <Col md={4} className="project-card">
+          <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={blog}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              title="Blogging page using React"
+              description="Designed a dynamic and responsive blog website utilising React
+               technology to afford a seamless reading experience with complete admin functionalities
+                and a promise on doing so. It includes secure access to the admin, ability to work with
+                 the blog, and convenient, efficient pagination for a great user experience."
+              ghLink="https://github.com/thasleemkhan762/react-front-end-Blog.git"
+              demoLink="https://react-front-end-blog.vercel.app/"
             />
-          </Col> */}
+          </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
