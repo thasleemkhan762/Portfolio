@@ -28,7 +28,8 @@ function Projects() {
               isBlog={false}
               title="Contactlist using React Redux"
               description="Designed a responsive and user-friendly  contact management application using React and Redux,
-               providing users with the ability to add, edit, and manage their contacts efficiently."
+               providing users with the ability to add, edit, and manage their contacts efficiently. ContactList streamlines the process of contact management,
+                making it an essential tool for organizing and staying connected."
               ghLink="https://github.com/thasleemkhan762/react-redux-contactlist.git"
               demoLink="https://react-redux-contactlist.vercel.app/"      
             />
