@@ -25,7 +25,7 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={figdissc}
-              isBlog={false}
+              isBlog={true}
               title="MediaMate project design in figma"
               description="The Figma design for MediaMate focuses on a clean and user-friendly interface with a modern aesthetic. The design adheres to principles of simplicity, consistency, and accessibility to ensure a seamless user experience across various devices."
               demoLink="https://www.figma.com/proto/PA3Ca41eXI77MupX9HCEiA/Social-media-design?t=bg6fLkwRuwWDtKqO-1"
