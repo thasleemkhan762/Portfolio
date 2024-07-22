@@ -3,6 +3,7 @@ import Thunder from "../../Assets/thunder111.png";
 import { Col, Row } from "react-bootstrap";
 import {
   SiVisualstudiocode,
+  SiFigma,
   SiPostman,
   SiSlack,
   SiWindows11,
