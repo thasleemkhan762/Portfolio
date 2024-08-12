@@ -20,34 +20,12 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+            I am a passionate, highly motivated <i><b className="purple">MERN </b></i> stack developer with in-depth exposure to <i><b className="purple">frontend</b></i> and <i><b className="purple">backend</b></i> technologies.
               <br />
-              <br />I am fluent in classics like
-              <i>
-                <b className="purple"> Javascript, C++ and C. </b>
-              </i>
+              <br />Having gone through the journey of <i><b className="pruple">web development</b></i> shaped by my <i><b className="purple">self-driven</b></i> internship and educationally rich background in <i><b className="purple">civil engineering</b></i>, I can look at challenges from quite a different angle.
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products.
-                </b> 
-              </i>
-              <br />
-              <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js.</b>
-              </i>
+              I strive to come up with creative and effective solutions that make a real difference.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
