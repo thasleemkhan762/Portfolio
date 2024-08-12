@@ -8,15 +8,20 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-          I am an enthusiastic <span className="purple">MERN</span> stack developer, having a strong background in both frontend and backend technologies. My interest in the domain of Web Development was simply initiated through a self-driven internship that trained me well on how to make dynamic and user-friendly applications using JavaScript, Node.js, React.js, and MongoDB.
+          I am an enthusiastic <span className="purple">MERN</span> stack developer, having a strong background in both <span className="purple">frontend</span> and <span className="purple">backend</span> technologies. My interest in the domain of <span className="purple">Web Development</span> was simply initiated through a <span className="purple">self-driven</span> internship that trained me well on how to make dynamic and user-friendly applications using <span className="purple">JavaScript</span>, <span className="purple">Node.js</span>, <span className="purple">React.js</span>, and <span className="purple">MongoDB</span>.
           <br />
-      Prior to entering tech, I pursued a degree in civil engineering, where I gained an understanding of the importance of structural precision, project management, and problem-solving. These are skills that serve me very well in web development and enable me to approach problem-solving and building solutions with an eye on quality.
+          <br />
+      Prior to entering tech, I pursued a degree in <span className="purple">civil engineering</span>, where I gained an understanding of the importance of <span className="purple">structural precision</span>, <span className="purple">project management</span>, and <span className="purple">problem-solving</span>. These are skills that serve me very well in <span className="purple">web development</span> and enable me to approach problem-solving and building solutions with an eye on quality.
+      <br />
       <br />
 
-      I am highly interested in building modern web technologies and products that really stretch the possibilities. My background in engineering enables me to look at problems from various dimensions and gives me a different edge in web development, thus providing an advantage when coming up with innovative solutions.
+      I am highly interested in building modern web technologies and products that really stretch the possibilities. My background in <span className="purple">engineering</span> enables me to look at problems from various dimensions and gives me a different edge in <span className="purple">web development</span>, thus providing an advantage when coming up with innovative solutions.
+      <br />
       <br />
 
-      I am a developer who aspires to learn and grow with experience, dedicated to giving back to the technology community to create truly extraordinary experiences in the digital world. Whether it's developing cutting-edge web applications or collaborating with similar-minded professionals, I'm excited to take new challenges and make a difference in the field of web development.
+      I am a <span className="purple">developer</span> who aspires to learn and grow with experience, dedicated to giving back to the technology community to create truly extraordinary experiences in the digital world. Whether it's developing cutting-edge <span className="purple">web applications</span> or collaborating with similar-minded professionals, I'm excited to take new challenges and make a difference in the field of <span className="purple">web development</span>.
+      <br />
+      <br />Apart from <span className="purple">coding</span>, some other activities that I love to do!
           </p>
           {/* <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Thasleem khan </span>
