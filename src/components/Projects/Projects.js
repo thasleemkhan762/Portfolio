@@ -9,6 +9,8 @@ import flex from "../../Assets/Projects/flex.png";
 import blog from "../../Assets/Projects/blog.png";
 import Contactlist from "../../Assets/Projects/contactlist.png"
 import figdissc from "../../Assets/Projects/figdissc.png"
+import mediamate from "../../Assets/Projects/Mediamate.png"
+import livedocs from "../../Assets/Projects/Livedocs.png"
 
 function Projects() {
   return (
@@ -22,6 +24,29 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+        <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={livedocs}
+              isBlog={false}
+              title="Real-Time Collaborative Document Editor - LiveDocs"
+              description="Built an improved Google Docs alternative with enhanced real-time collaboration features including
+multi-user co-editing, live cursors, and instant syncing using Next.js and Live Blocks"
+              ghLink="https://github.com/thasleemkhan762/live_docs.git"
+              demoLink="https://jsm-live-docs-h2pg.vercel.app/"
+            />
+          </Col>
+        <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={mediamate}
+              isBlog={false}
+              title="MediaMate project"
+              description="MediaMate is a social media platform that allows users to create and manage their profiles,
+               post content, and interact with other users. It provides a user-friendly interface with features
+                such as user authentication, profile management, and content sharing."
+              ghLink="https://github.com/thasleemkhan762/mediamate-frontend.git"
+              demoLink="https://mediamate-frontend.vercel.app/"
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={figdissc}
